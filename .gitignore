@@ -1,0 +1,6 @@
+WeatherStation/bme280.cpp
+WeatherStation/bme280.h
+snow_forcast/assets
+snow_forcast/variables
+
+*.pb
